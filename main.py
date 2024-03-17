@@ -1,6 +1,6 @@
 from pygame import *
 
-window = display.set_mode((700,500))
+window = display.set_mode((700,500)) #fjvrvrfvvrf
 display.set_caption("sprites run")
 clock = time.Clock()
 FPS = 60
